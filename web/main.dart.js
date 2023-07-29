@@ -21559,7 +21559,7 @@ var $async$ae6=A.U(function(a,b){if(a===1)return A.Q(b,r)
 while(true)switch(s){case 0:if($.ar==null)A.xT()
 $.ar.toString
 s=2
-return A.a0($.aik().uS(0,".env"),$async$ae6)
+return A.a0($.aik().uS(0,"dotenv"),$async$ae6)
 case 2:if($.ar==null)A.xT()
 q=$.ar
 q.toString
